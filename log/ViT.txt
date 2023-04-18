@@ -1,0 +1,107 @@
+rain size: 82724
+Val size: 2575
+Test size: 2575
+cuda:0
+Epoch 1/20
+----------
+train Loss: 1.3901 Acc: 0.7095
+val Loss: 0.1782 Acc: 0.9511
+
+Epoch 2/20
+----------
+train Loss: 0.6020 Acc: 0.8520
+val Loss: 0.1286 Acc: 0.9623
+
+Epoch 3/20
+----------
+train Loss: 0.5210 Acc: 0.8696
+val Loss: 0.1158 Acc: 0.9658
+
+Epoch 4/20
+----------
+train Loss: 0.4680 Acc: 0.8813
+val Loss: 0.1302 Acc: 0.9647
+
+Epoch 5/20
+----------
+train Loss: 0.4329 Acc: 0.8893
+val Loss: 0.1214 Acc: 0.9693
+
+Epoch 6/20
+----------
+train Loss: 0.3973 Acc: 0.8983
+val Loss: 0.1087 Acc: 0.9678
+
+Epoch 7/20
+----------
+train Loss: 0.3785 Acc: 0.9034
+val Loss: 0.1043 Acc: 0.9720
+
+Epoch 8/20
+----------
+train Loss: 0.2259 Acc: 0.9423
+val Loss: 0.0643 Acc: 0.9833
+
+Epoch 9/20
+----------
+train Loss: 0.1809 Acc: 0.9536
+val Loss: 0.0580 Acc: 0.9856
+
+Epoch 10/20
+----------
+train Loss: 0.1628 Acc: 0.9572
+val Loss: 0.0569 Acc: 0.9841
+
+Epoch 11/20
+----------
+train Loss: 0.1519 Acc: 0.9604
+val Loss: 0.0533 Acc: 0.9864
+
+Epoch 12/20
+----------
+train Loss: 0.1486 Acc: 0.9616
+val Loss: 0.0521 Acc: 0.9880
+
+Epoch 13/20
+----------
+train Loss: 0.1400 Acc: 0.9637
+val Loss: 0.0492 Acc: 0.9883
+
+Epoch 14/20
+----------
+train Loss: 0.1350 Acc: 0.9651
+val Loss: 0.0527 Acc: 0.9864
+
+Epoch 15/20
+----------
+train Loss: 0.1265 Acc: 0.9677
+val Loss: 0.0509 Acc: 0.9876
+
+Epoch 16/20
+----------
+train Loss: 0.1250 Acc: 0.9680
+val Loss: 0.0503 Acc: 0.9883
+
+Epoch 17/20
+----------
+train Loss: 0.1169 Acc: 0.9701
+val Loss: 0.0504 Acc: 0.9891
+
+Epoch 18/20
+----------
+train Loss: 0.1192 Acc: 0.9697
+val Loss: 0.0507 Acc: 0.9887
+
+Epoch 19/20
+----------
+train Loss: 0.1111 Acc: 0.9716
+val Loss: 0.0505 Acc: 0.9887
+
+Epoch 20/20
+----------
+train Loss: 0.1157 Acc: 0.9699
+val Loss: 0.0502 Acc: 0.9887
+
+Training complete in 206m 35s
+Best val Acc: 0.989126
+Test loss: 0.0003, Accuracy: 2559/2575 (99%)
